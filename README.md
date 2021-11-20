@@ -9,9 +9,9 @@ MVVA is a large-scale eye-tracking database of multiple-face video in visual-aud
 
 
 ### Example - face annotation
-![](./fig/91 00_00_03-00_00_08.gif)  |  ![](./fig/225 00_00_02-00_00_07.gif)  |  ![](./fig/222 00_00_03-00_00_09.gif)
+![](https://github.com/MinglangQiao/MVVA-Database/blob/master/fig/talking/91%2000_00_03-00_00_08.gif)  |  ![](https://github.com/MinglangQiao/MVVA-Database/blob/master/fig/talking/225%2000_00_02-00_00_07.gif)  |  ![](https://github.com/MinglangQiao/MVVA-Database/blob/master/fig/talking/222%2000_00_03-00_00_09.gif)
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/YuhangSong/DHP/blob/master/imgs/SpaceWar2_all.gif)  |  ![](https://github.com/YuhangSong/DHP/blob/master/imgs/Pearl_all.gif)  |  ![](https://github.com/YuhangSong/DHP/blob/master/imgs/Predator_all.gif)
+![](https://github.com/MinglangQiao/MVVA-Database/blob/master/fig/talking/102%2000_00_06-00_00_13.gif)  |  ![](https://github.com/MinglangQiao/MVVA-Database/blob/master/fig/talking/315%2000_00_01-00_00_08.gif)  |  ![](https://github.com/MinglangQiao/MVVA-Database/blob/master/fig/talking/219%2000_00_03-00_00_10.gif)
 
 <!-- ### comparation with [MUVFET](https://github.com/yufanLIU/salient-face-in-MUVFET)(visual-only) -->
 
