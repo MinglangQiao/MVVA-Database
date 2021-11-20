@@ -4,6 +4,7 @@ This repository provides the MVVA database in our ECCV paper "[Learning to Predi
 MVVA is a large-scale eye-tracking database of multiple-face video in visual-audio condition. MVVA contains **Eye Movement** data of **34** subjects on **300** videos, as well as the **soud source annotation** in frame level for all 300 videos. 
 
 ## One figure
+![](https://github.com/MinglangQiao/MVVA-Database/blob/master/fig/talking/all_video-2.jpg)
 
 ### Example - fixation annotation
 
