@@ -6,7 +6,9 @@ MVVA is a large-scale eye-tracking database of multiple-face video in visual-aud
 ![](https://github.com/MinglangQiao/MVVA-Database/blob/master/fig/talking/all_video-2.jpg)
 
 ### Example - fixation annotation
-
+![](https://github.com/MinglangQiao/MVVA-Database/blob/master/fig/saliency/005%2000_00_02-00_00_12.gif)  |  ![](https://github.com/MinglangQiao/MVVA-Database/blob/master/fig/saliency/82%2000_00_00-00_00_30.gif)  |  ![](https://github.com/MinglangQiao/MVVA-Database/blob/master/fig/saliency/155%2000_00_00-00_00_30.gif)
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/MinglangQiao/MVVA-Database/blob/master/fig/saliency/008%2000_00_00-00_00_10.gif)  |  ![](https://github.com/MinglangQiao/MVVA-Database/blob/master/fig/saliency/058%2000_00_00-00_00_30.gif)  |  ![](https://github.com/MinglangQiao/MVVA-Database/blob/master/fig/saliency/040%2000_00_01-00_00_30.gif)
 
 ### Example - talking face annotation
 ![](https://github.com/MinglangQiao/MVVA-Database/blob/master/fig/talking/91%2000_00_03-00_00_08.gif)  |  ![](https://github.com/MinglangQiao/MVVA-Database/blob/master/fig/talking/225%2000_00_02-00_00_07.gif)  |  ![](https://github.com/MinglangQiao/MVVA-Database/blob/master/fig/talking/222%2000_00_03-00_00_09.gif)
