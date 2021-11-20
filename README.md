@@ -29,6 +29,13 @@ group discussion.
 |  :----:  | :----:  | :----:  | :----: |  :----:  | :----:  |  :----:  | :----:  |
 | <b>Number of videos | 53 |  71  | 14 | 67 | 51 | 44 | 300 |
 
+The audio content covers different scenarios including quiet scenes and noisy scenes, as reported in the following table. In the noisy scenes, the
+background sounds contain laughter, street, music, applause, crowd and noise.
+<!-- ![category](./fig/audio_scenes.PNG) -->
+|  <b>Category  | laughter  | street | music | applause | crowd | noise | quiet scenes | overall |
+|  :----:  | :----:  | :----:  | :----: |  :----:  | :----:  |  :----:  | :----:  | :----:  |
+| <b>Number of videos | 34 |  17  | 72 | 16 | 46 | 19 | 96 | 300 |
+
 <!-- <p align="center"><img src="https://github.com/YuhangSong/DHP/blob/master/imgs/VRBasketball_all.gif"/></p> -->
 
 ## Download database
@@ -43,14 +50,6 @@ Run the following command to visualize saliency maps
 ```
 python demo.py
 ```
-
-The audio content covers different scenarios including quiet scenes and noisy scenes, as reported in the following table. In the noisy scenes, the
-background sounds contain laughter, street, music, applause, crowd and noise.
-<!-- ![category](./fig/audio_scenes.PNG) -->
-|  <b>Category  | laughter  | street | music | applause | crowd | noise | quiet scenes | overall |
-|  :----:  | :----:  | :----:  | :----: |  :----:  | :----:  |  :----:  | :----:  | :----:  |
-| <b>Number of videos | 34 |  17  | 72 | 16 | 46 | 19 | 96 | 300 |
-
 
 ## Citation
 
