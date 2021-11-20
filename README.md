@@ -18,7 +18,7 @@ MVVA is a large-scale eye-tracking database of multiple-face video in visual-aud
 <!-- ### comparation with [MUVFET](https://github.com/yufanLIU/salient-face-in-MUVFET)(visual-only) -->
 
 
-This database can be used for visual-audio saliency prediction, sound source localization, activate speaker detection, speaker diration, etc. For more details, please refer to [our paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650409.pdf).
+This database can be used for visual-audio saliency prediction, sound source localization, activate speaker detection, speaker diarization, etc. For more details, please refer to [our paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650409.pdf).
 
 ## Details
 The multiple-face videos in our MVVA database are at diverse scenarios, and can be categorized into 6 classes,
