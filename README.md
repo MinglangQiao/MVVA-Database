@@ -5,10 +5,10 @@ MVVA is a large-scale eye-tracking database of multiple-face video in visual-aud
 
 ## One figure
 
-### our database - fixation annotation
+### Example - fixation annotation
 
 
-### talking face annotation
+### Example - face annotation
 
 
 <!-- ### comparation with [MUVFET](https://github.com/yufanLIU/salient-face-in-MUVFET)(visual-only) -->
@@ -28,7 +28,7 @@ group discussion.
 <!-- <p align="center"><img src="https://github.com/YuhangSong/DHP/blob/master/imgs/VRBasketball_all.gif"/></p> -->
 
 ## Download database
-MVVA database can be downloaded from [DropBox (Click to view)](https://www.dropbox.com/s/xuai3q9dn1awy41/mvva_database_v1.zip?dl=0) or [BiaduPan](). Please feel free to [contact us by clicking here](mailto:yufan.liu@ia.ac.cn,MinglangQiao@buaa.edu.cn) so that we can give you access to the database.
+MVVA database can be downloaded from [DropBox (Click to view)](https://www.dropbox.com/s/xuai3q9dn1awy41/mvva_database_v1.zip?dl=0) or [BiaduPan](https://pan.baidu.com/s/1Co2SDgUmaCjgGefJJlFtNg). Please feel free to [contact us by clicking here](mailto:yufan.liu@ia.ac.cn,MinglangQiao@buaa.edu.cn) so that we can give you access to the database.
 
 Then extract it with:
 ```
