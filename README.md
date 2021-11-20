@@ -1,14 +1,14 @@
 # MVVA-Database
 This repository provides the MVVA database in our ECCV paper "[Learning to Predict Salient Faces: A Novel Visual-Audio Saliency Model](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650409.pdf)" and Pre-print paper "[Joint Learning of Visual-Audio Saliency Prediction and Sound Source Localization on Multi-face Videos](https://arxiv.org/pdf/2111.08567.pdf)".
 
-MVVA is a large-scale eye-tracking database of multiple-face video in visual-audio condition. MVVA contains **Eye Movement** data of **34** subjects on **300** videos, as well as the **soud source annotation** in frame level for all 300 videos. 
+MVVA is a large-scale eye-tracking database of multiple-face video in visual-audio condition. MVVA contains **Eye Movement** data of **34** subjects on **300** videos, as well as the **talking face annotation** in frame level for all 300 videos. 
 
 ![](https://github.com/MinglangQiao/MVVA-Database/blob/master/fig/talking/all_video-2.jpg)
 
 ### Example - fixation annotation
 
 
-### Example - sound source annotation
+### Example - talking face annotation
 ![](https://github.com/MinglangQiao/MVVA-Database/blob/master/fig/talking/91%2000_00_03-00_00_08.gif)  |  ![](https://github.com/MinglangQiao/MVVA-Database/blob/master/fig/talking/225%2000_00_02-00_00_07.gif)  |  ![](https://github.com/MinglangQiao/MVVA-Database/blob/master/fig/talking/222%2000_00_03-00_00_09.gif)
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/MinglangQiao/MVVA-Database/blob/master/fig/talking/102%2000_00_06-00_00_13.gif)  |  ![](https://github.com/MinglangQiao/MVVA-Database/blob/master/fig/talking/315%2000_00_01-00_00_08.gif)  |  ![](https://github.com/MinglangQiao/MVVA-Database/blob/master/fig/talking/219%2000_00_03-00_00_10.gif)
@@ -34,21 +34,13 @@ MVVA database can be downloaded from [DropBox (Click to view)](https://www.dropb
 
 Then extract it with:
 ```
-unzip xxx.zip
+unzip mvva_database_v1.zip
 ```
 
-## Data format
-xxxs
-
-run the following command to generate saliency maps 
+Run the following command to visualize saliency maps 
 ```
 python demo.py
 ```
-
-Usage Example
-
-
-
 
 The audio content covers different scenarios including quiet scenes and noisy scenes, as reported in the following table. In the noisy scenes, the
 background sounds contain laughter, street, music, applause, crowd and noise.
