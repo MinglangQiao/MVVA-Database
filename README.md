@@ -51,6 +51,24 @@ Run the following command to visualize saliency maps
 python demo.py
 ```
 
+The face talking annotation can be download from [Dropbox](xx) or [BiaduPan, key:xx](), and using this script to visulize the annotations. 
+
+You may need to install ffmpeg to extract audio from the raw video:
+```
+apt install ffmpeg
+```
+Then
+```
+python xxx
+```
+to extact audio. 
+After that, modify the path of video/audio/face tracking&talking annotations. Then run this script to visulize the face talking annotation
+```
+python demo_face_talking.py
+```
+One example:
+[vide](xx)
+
 ## Citation
 
 if you find this database useful for your research, please cite:
