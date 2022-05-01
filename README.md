@@ -55,7 +55,7 @@ The face talking annotation can be download from [Dropbox](xx) or [BiaduPan, key
 
 You may need to install ffmpeg to extract audio from the raw video:
 ```
-apt install ffmpeg
+sudo apt install ffmpeg
 ```
 Then
 ```
