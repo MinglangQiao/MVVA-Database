@@ -69,13 +69,8 @@ Then run this script to visulize the face talking annotation
 ```
 python demo_face_talking.py
 ```
-Some examples:
-```HTML
-<video width="320" height="240" controls>
-    <source src=https://t1-1258023642.cos.ap-nanjing.myqcloud.com/hmap/fixation_video/mvva_database_related/91_wt_audio.avi" type="video/avi">
-    <!-- <source src="movie1.mp4" type="video/mp4"> -->
-</video>
-```
+Some examples: [091](https://t1-1258023642.cos.ap-nanjing.myqcloud.com/hmap/fixation_video/mvva_database_related/91_wt_audio.avi), [222](https://t1-1258023642.cos.ap-nanjing.myqcloud.com/hmap/fixation_video/mvva_database_related/222_wt_audio.avi), [145](https://t1-1258023642.cos.ap-nanjing.myqcloud.com/hmap/fixation_video/mvva_database_related/145_wt_audio.avi)
+
 
 ## Citation
 
