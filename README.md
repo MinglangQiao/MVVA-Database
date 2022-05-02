@@ -51,15 +51,16 @@ Run the following command to visualize saliency maps
 python demo.py
 ```
 
-The audio file, face tracking&talking annotation can be download from [Dropbox](xx) or [BiaduPan, key:xx](), and using this script to visulize the annotations. 
-If can also extract the audio by yourself, you may need to install ffmpeg to extract audio from the raw video, and imageio for visualization of annotations:
+The audio file, face tracking&talking annotation can be download from [Dropbox](xx) or [BiaduPan, key:f3iy](https://pan.baidu.com/s/1-wVpTullcpUwybv4T9qacQ). 
+We provide the audio file for visualization of annotations, you can also extract the audio by yourself. 
+FFmpeg and imageio are necessary for visualization of annotations:
 ```
 sudo apt install ffmpeg
 pip install imageio-ffmpeg
 ```
 Then
 ```
-python xxx
+python extract_audio.py
 ```
 to extact audio. 
 
