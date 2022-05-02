@@ -64,7 +64,8 @@ python extract_audio.py
 ```
 to extact audio. 
 
-After that, modify the path of video/audio/face tracking&talking annotations. Then run this script to visulize the face talking annotation
+After that, modify the paths of video/audio/face tracking&talking annotations. 
+Then run this script to visulize the face talking annotation
 ```
 python demo_face_talking.py
 ```
