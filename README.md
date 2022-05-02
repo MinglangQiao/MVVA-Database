@@ -51,8 +51,8 @@ Run the following command to visualize saliency maps
 python demo.py
 ```
 
-The audio file, face tracking&talking annotation can be download from [Dropbox](xx) or [BiaduPan, key:f3iy](https://pan.baidu.com/s/1-wVpTullcpUwybv4T9qacQ). 
-We provide the audio file for visualization of annotations, you can also extract the audio by yourself. 
+The audio file, face tracking&talking annotation can be download from [Dropbox](https://www.dropbox.com/s/grl1myvxbmac6dv/mvva_database_part2-face_annotation.zip?dl=0) or [[BiaduPan, key:f3iy](https://pan.baidu.com/s/1-wVpTullcpUwybv4T9qacQ)]. 
+We provide the audio file for visualization of annotations, and you can also extract the audio by yourself. 
 FFmpeg and imageio are necessary for visualization of annotations:
 ```
 sudo apt install ffmpeg
@@ -62,17 +62,20 @@ Then
 ```
 python extract_audio.py
 ```
-to extact audio. 
+to extact audio.
 
 After that, modify the paths of video/audio/face tracking&talking annotations. 
 Then run this script to visulize the face talking annotation
 ```
 python demo_face_talking.py
 ```
-One example:
-[vide](xx)
+Some examples:
 
-all processed video can be found [here]
+<video width="320" height="240" controls>
+    <source src=https://t1-1258023642.cos.ap-nanjing.myqcloud.com/hmap/fixation_video/mvva_database_related/91_wt_audio.avi" type="video/avi">
+    <!-- <source src="movie1.mp4" type="video/mp4"> -->
+</video>
+
 
 ## Citation
 
